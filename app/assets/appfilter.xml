@@ -13608,4 +13608,5 @@
   <item component="ComponentInfo{com.servoz.appsdisabler/com.servoz.appsdisabler.LauncherActivity}" drawable="disabler" name="Disabler" />
   <item component="ComponentInfo{simple.reboot.com/simple.reboot.com.MainActivity}" drawable="simple_reboot" name="Simple Reboot" />
   <item component="ComponentInfo{com.leapzip.animatedstickers.maker.android/com.leapzip.animatedstickers.maker.android.SplashActivity}" drawable="animated_sticker_maker" name="Animated Sticker Maker" />
+  <item component="ComponentInfo{com.onelouder.baconreader/com.onelouder.baconreader.ui.main.MainActivity}" drawable="baconreader" name="BaconReader for Reddit" />
 </resources>
